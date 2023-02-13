@@ -41,3 +41,15 @@
   }
 }
 
+@media (min-width: 576px) {
+  #Reporting {
+    background: url("../../assets/img/img10.webp") center / cover no-repeat;
+  }
+}
+
+@media (min-width: 576px) {
+  #mess {
+    background: url("../../assets/img/img12.png") center / cover no-repeat;
+  }
+}
+
