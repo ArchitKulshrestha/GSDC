@@ -35,3 +35,9 @@
   padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
 }
 
+@media (min-width: 768px) {
+  #Reporting {
+    background: url("../../assets/img/img9.webp") center / cover no-repeat;
+  }
+}
+
